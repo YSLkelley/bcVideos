@@ -1,0 +1,22 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@u-wave/react-vimeo": "^0.5.0",
+    "expo": "^29.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "react-native-video": "^3.2.0",
+    "react-native-vimeo": "^0.3.0",
+    "react-native-webview-bridge": "^0.33.0",
+    "react-navigation": "^2.13.0",
+    "react-vimeo": "^2.0.0"
+  }
+}
